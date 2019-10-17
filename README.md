@@ -1,2 +1,3 @@
 # hacky-macky
-backend with flask for hackathon 
+- backend with flask for hackathon 
+- delivered
